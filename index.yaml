@@ -3,7 +3,17 @@ entries:
   helm-versioning-demo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-17T10:25:29.4586604+07:00"
+    created: "2024-04-17T11:12:39.2003612+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 7e14854c666067efc9af087508b9afb6db815a42ca8a59c8832cd92251b857d9
+    name: helm-versioning-demo
+    type: application
+    urls:
+    - helm-versioning-demo-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-17T11:12:39.1998707+07:00"
     description: A Helm chart for Kubernetes
     digest: 30c843d5bc6d01b40d7ef2cd1c5feeffc9450ec2550caf65a50eb8e68e10101b
     name: helm-versioning-demo
@@ -11,4 +21,4 @@ entries:
     urls:
     - helm-versioning-demo-1.0.0-1234.tgz
     version: 1.0.0-1234
-generated: "2024-04-17T10:25:29.4581001+07:00"
+generated: "2024-04-17T11:12:39.199192+07:00"
